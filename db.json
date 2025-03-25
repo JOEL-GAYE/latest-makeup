@@ -1,0 +1,41 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "MakeUp Remover",
+        "price": "$99",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgkjvMm_Gq_9xqUyE3opc-7NphmmcMoTjndg&s"
+      },
+      {
+        "id": 2,
+        "name": "Shower Cream",
+        "price": "$149",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReL9dGQ7bJZeG0uu_JT_D6EPLXRL1DNydkoQ&s"
+      },
+      {
+        "id": 3,
+        "name": "Clenser",
+        "price": "$59",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjwiWibCKoPtQMGEc2aLvGUfZ9KHvdVi53bw&s"
+      },
+      {
+        "id": 4,
+        "name": "Nail Polish Remover",
+        "price": "$129",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKnpDxbkiU0fUw7DgMPr6HmVhNHcqgALtw7g&s"
+      },
+      {
+        "id": 5,
+        "name": "Lipstick",
+        "price": "$59",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-G_xg1JiJRZ5TZQ4S_bESi4zcjdcFmclLWg&s"
+      },
+      {
+        "id": 6,
+        "name": "Vitamin C",
+        "price": "$59",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAPde1leUS0nMxEJRyKERik22ktFH5O2oUjw&s"
+      }
+    ]
+  }
+  
