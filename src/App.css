@@ -1,0 +1,7 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+.container > img{
+  margin: 0 24px 0;
+    height: 76px;
+    width: 200px;
+}
